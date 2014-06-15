@@ -1,4 +1,4 @@
-Chat Application
+Video and Voice Chat Application With Jitsi
 ============
 
 eXo Chat is an Instant Messaging application for eXo Platform 4.
